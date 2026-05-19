@@ -45,7 +45,7 @@ Built an interactive HR dashboard to analyze:
 - Gender distribution
 - Salary analysis
 - Hiring trends and KPIs
-
+ 
 ---
 
 ### 🏠 London Houses Dashboard — Excel
@@ -83,6 +83,9 @@ Created an Excel dashboard for housing market analysis including:
 ### 🌐 Additional Skills
 - Web Scraping
 - Git & GitHub
+- Visual Studio
+- VS Code
+  
 ---
 
 ## 🎯 Current Focus
@@ -100,4 +103,3 @@ Currently improving my knowledge in:
 
 ## ⚡ Motto
 "Every dataset has a story waiting to be discovered."
-> “Without data, you’re just another person with an opinion.”
